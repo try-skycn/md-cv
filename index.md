@@ -58,14 +58,6 @@ Verilog VHDL
 `Advanced`
 C++, JAVA, python, Tensorflow, LaTeX
 
-## Languages
-
-`Native`
-Chinese
-
-`Foreign`
-English
-
 ## Research Interests
 
 Machine Learning & Deep Learning
