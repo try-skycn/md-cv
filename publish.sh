@@ -4,8 +4,8 @@
 jekyll build
 
 # remove old files
-rm -R ../other/blmoore.github.io/cv/*
+rm -rf ../try-skycn.github.io/cv/*
 
 # re-add new
-cp _site/index.html ../other/blmoore.github.io/cv/.
-cp -R _site/media ../other/blmoore.github.io/cv/.
+cp _site/index.html ../try-skycn.github.io/cv/.
+cp -r _site/media ../try-skycn.github.io/cv/.
