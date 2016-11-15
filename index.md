@@ -30,6 +30,14 @@ Major Courses:
 * Compiler Engineering
 * Graph Theory and Combinatorics
 
+## Experience
+
+`2016.3-2016.6`
+__Teaching Assistant at Data Structure__
+
+`2016.7-2016.8`
+__Teaching Assistant at Principle and Practice of Computer Algorithms__
+
 ## Honors
 
 `2016`
