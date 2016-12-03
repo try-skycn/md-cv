@@ -34,6 +34,7 @@ Major Courses:
 
 `2016.7-`
 __Research in <a href="http://apex.sjtu.edu.cn">APEX Data & Knowledge Management Lab</a>, Shanghai Jiao Tong University__
+
 Research topic: Deep Learning for Discrete Data
 
 `2016.3-2016.6`
@@ -44,7 +45,9 @@ __Teaching Assistant at Principle and Practice of Computer Algorithms__
 
 ## Publication
 __<a href="https://openreview.net/pdf?id=HyNxRZ9xg">Cat2Vec: Learning Distributed Representation of Multi-field Categorical Data</a>__
+
 Ying Wen, Jun Wang, *Tianyao Chen*, Weinan Zhang
+
 ICLR 2017 (submited, under review)
 
 ## Honors
