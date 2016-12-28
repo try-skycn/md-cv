@@ -82,6 +82,8 @@ C++, JAVA, python, Tensorflow, LaTeX
 
 Machine Learning & Deep Learning
 
+Computer Vision
+
 Natural Language Processing
 
 
