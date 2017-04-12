@@ -1,89 +1,71 @@
 ---
 layout: cv
-title: Tianyao Chen's CV
+title: Yining Chen's CV
 ---
-# Tianyao Chen
-Student at Shanghai Jiao Tong University
+# 陈仪宁
+外交学院
 
 <div id="webaddress">
-<a href="tianyao@try-skycn.net">tianyao@try-skycn.net</a>
+<a href="514493178@qq.com">514493178@qq.com</a>
 |
-<i class="fa fa-github"></i> <a href="https://github.com/try-skycn">try-skycn</a>
+13051108917
 </div>
 
-## Education
+## 工作意向
 
-`2014-`
-__Shanghai Jiao Tong University__ _Bachelor Degree_
+`工作地点`
 
-Major in Computer Science and Technology (_ACM Honored Class_)
+北京、上海、深圳均可考虑；但倾向于在北京实习。
 
-First year GPA: 3.91/4.3 __(No. 4 over 30 students)__<br>
-Second year GPA: 4.05/4.3 __(No. 3 over 30 students)__
+`工作部门`
 
-Major Courses:
+倾向参加“公司业务部”。对“破产和重组”的业务有强烈兴趣。具体可见“自我评价”。
 
-* Programming
-* Data Structure
-* Computer Architecture
-* Operating Systems
-* Compiler Engineering
-* Graph Theory and Combinatorics
+## 教育背景
 
-## Experience
+`2014.9-`
+__外交学院__
 
-`2016.7-`
-__Research in <a href="http://apex.sjtu.edu.cn">APEX Data & Knowledge Management Lab</a>, Shanghai Jiao Tong University__
+现绩点为 _3.8_ （满绩为 4.0） ，系内排名第五。
 
-Research topic: Deep Learning for Discrete Data
+## 校园经历
 
-`2016.3-2016.6`
-__Teaching Assistant at Data Structure__
+`学科竞赛`
 
-`2016.7-2016.8`
-__Teaching Assistant at Principle and Practice of Computer Algorithms__
+2015.12：参与第九届红十字“国际人道法”模拟法庭竞赛代表队，获一等奖
 
-## Publication
-__<a href="https://openreview.net/pdf?id=HyNxRZ9xg">Cat2Vec: Learning Distributed Representation of Multi-field Categorical Data</a>__
+2015.12：参与第七届北京大学生模拟法庭竞赛校代表队，获三等奖
 
-Ying Wen, Jun Wang, *Tianyao Chen*, Weinan Zhang
+`学生工作`
 
-ICLR 2017 (submited, under review)
+2015-2016：外交学院校刊《外交青年》社长
+2014-至今：担任班级学习委员
 
-## Honors
+`其他荣誉`
 
-`2016`
-Honorable Mention, The Mathematical Contest in Modeling
+2015.07-08：参与美国暑期法学院项目，在波士顿大学(BU)学习
 
-`2015`
-Xingcai Scholarship
+此外还于 2014-2016 年间获得校二等奖学金、秋实奖学金，校“优秀学生干部”称 号；在中国科普作家协会主办的“我为家乡测河流”活动中被评为“优秀志愿者”；获新生辩 论赛“最佳辩手”与第五届香港大学生“外交之友”夏令营辩论赛纪念奖的荣誉；在校运动会 取得女子 400 米第一名的成绩，在校排球联赛中获女子组第三名。类似成绩便不一一赘述。
 
-`2015`
-Honorary Scholarship of Zhiyuan College
+## 实习经历
 
-`2015`
-Honorable Mention, The Mathematical Contest in Modeling
+`2016.07-08`
 
-`2013`
-Bronze Medal in China’s Physics Olympiad (CPHO)
+北京大成（福州）律师事务所，为温雪生律师助理。
 
-`2013`
-Bronze Medal in China’s National Olympiad in Informatics (NOI)
+## 技能特长
 
-## Computer skills
+通过大学英语四、六级（成绩分别为 549 和 506）；2016 年 12 月 LSAT 成绩为 157。在 英语方面有良好的听说读写能力。
 
-`Basic`
-Verilog VHDL
+通过会计从业资格考试，取得会计从业资格证。
 
-`Advanced`
-C++, JAVA, python, Tensorflow, LaTeX
+能熟练运用 Office 的 Word、PowerPoint 及 Excel 软件。
 
-## Research Interests
+## 自我评价
 
-Machine Learning & Deep Learning
+我认为，我与周围的同龄人相比，最突出的优点是目标明确。
 
-Computer Vision
+大一暑假去美国波士顿大学学习时，我第一次接触到破产法，便为其“难”所折 服：不仅需要执业者有扎实的理论基本功，而且还要有把理论转化为实践、综合运用 于法律关系的能力。我立志日后成为可处理国内及涉外破产事务的律师，并为此坚持 付出努力：参加 LSAT 考试，打算于本科毕业后前往美国法学院攻读 JD 学位；在校内 选修会计法，并在业余时间考取会计从业资格证巩固知识；在课外额外学习了王欣新 教授主编的《破产法原理与案例教程》、徐根才法官所著的《破产法实践指南》等。
 
-Natural Language Processing
-
+我也由此关注方达律师事务所并向往已久。贵所在破产重组乃至商事实践上都颇 有建树，近年来钱伯斯发布的亚太法律指南便是有力例证。希望贵所能给我一个面试 机会，我会向各位展现我的能力与潜力。
 

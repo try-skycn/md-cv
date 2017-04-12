@@ -4,8 +4,8 @@
 jekyll build
 
 # remove old files
-rm -rf ../try-skycn.github.io/cv/*
+rm -rf ../try-skycn.github.io/yining/*
 
 # re-add new
-cp _site/index.html ../try-skycn.github.io/cv/.
-cp -r _site/media ../try-skycn.github.io/cv/.
+cp _site/index.html ../try-skycn.github.io/yining/.
+cp -r _site/media ../try-skycn.github.io/yining/.
