@@ -15,7 +15,7 @@ table, caption, tbody, tfoot, thead, tr, th, td,
 article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
+time, mark, audio, video, putimage {
 	margin: 0;
 	padding: 0;
 	border: 0;
@@ -81,6 +81,14 @@ p code {
 	left: -13%;
 }
 
+putimage {
+	position: absolute;
+	left: 60%;
+	/*margin-bottom: 0.0em;*/
+	margin-right: 0;
+	width: 5%;
+	height: 5em;
+}
 
 ul {
 	position: relative;
