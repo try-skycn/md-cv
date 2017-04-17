@@ -48,8 +48,6 @@ __<a href="https://openreview.net/pdf?id=HyNxRZ9xg">Cat2Vec: Learning Distribute
 
 Ying Wen, Jun Wang, *Tianyao Chen*, Weinan Zhang
 
-ICLR 2017 (submited, under review)
-
 ## Honors
 
 `2016`
