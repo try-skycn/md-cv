@@ -3,7 +3,8 @@ layout: cv
 title: Tianyao Chen's CV
 ---
 # Tianyao Chen
-Student at Shanghai Jiao Tong University
+
+<div id="institution">Student at Shanghai Jiao Tong University</div>
 
 <div id="webaddress">
 <a href="tianyao@try-skycn.net">tianyao@try-skycn.net</a>
