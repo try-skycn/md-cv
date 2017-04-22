@@ -68,6 +68,11 @@ Bronze Medal in China’s Physics Olympiad (CPHO)
 `2013`
 Bronze Medal in China’s National Olympiad in Informatics (NOI)
 
+## Travel History
+
+`Feb. 16-21, 2017`
+Singapore
+
 ## Computer skills
 
 `Basic`
